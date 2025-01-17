@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-## ✨ Qui suis-je ?
+<!-- ## ✨ Qui suis-je ?
 Je suis un apprenti en informatique, actuellement étudiant au CESI, où je poursuis ma troisième année d'apprentissage. Passionné par la technologie, je travaille chez **Linkt**, en développant des solutions innovantes pour améliorer les processus internes.
 
 ---
@@ -46,4 +46,4 @@ En dehors de la programmation, je suis intéressé par les activités sportives 
   <a href="mailto:votre.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</p> -->
