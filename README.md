@@ -1,14 +1,14 @@
 # Bienvenue sur mon profil GitHub !
 
 ## ✨ Qui suis-je ?
-Je suis un apprenti en informatique, actuellement étudiant au CESI, où je poursuis ma troisième année d'apprentissage. Passionné par la technologie, je travaille chez **Linkt** sur le projet **Linkticket**, en développant des solutions innovantes pour améliorer les processus internes.
+Je suis un apprenti en informatique, actuellement étudiant au CESI, où je poursuis ma troisième année d'apprentissage. Passionné par la technologie, je travaille chez **Linkt**, en développant des solutions innovantes pour améliorer les processus internes.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical" alt="Mes Stats GitHub" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joosxphh&show_icons=true&theme=radical" alt="Mes Stats GitHub" width="60%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical" alt="Langages les plus utilisés" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joosxphh&layout=compact&theme=radical" alt="Langages les plus utilisés" width="60%">
 </div>
 
 ---
