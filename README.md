@@ -4,7 +4,7 @@
 Je suis un apprenti en informatique, actuellement étudiant au CESI, où je poursuis ma troisième année d'apprentissage. Passionné par la technologie, je travaille chez **Linkt** sur le projet **Linkticket**, en développant des solutions innovantes pour améliorer les processus internes.
 
 ## 📊 Statistiques GitHub
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Joosxphh&show_icons=true&theme=radical)
 
 ## 🔧 Langages et outils
 Voici quelques-uns des langages et outils que j'utilise régulièrement :
