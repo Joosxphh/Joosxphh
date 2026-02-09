@@ -1,11 +1,14 @@
 # Bienvenue sur mon profil GitHub !
 
 ## ✨ Qui suis-je ?
-Actuellement étudiant en premmière année de master de manager en architecture et applications logicielles des systèmes d'information (MAALSI) je suis en alternance en tant que développeur/concepteur d'application. 
-
+Actuellement étudiant en première année de Master Manager en Architecture et Applications Logicielles des Systèmes d’Information (MAALSI), je suis en alternance en tant que développeur fullstack / concepteur d’applications.
 ---
-![Joosxphh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joosxphh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joosxphh&layout=compact)
+<!-- ![Joosxphh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joosxphh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joosxphh&layout=compact) -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Joosxphh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joosxphh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joosxphh&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p>
 
 ---
 
